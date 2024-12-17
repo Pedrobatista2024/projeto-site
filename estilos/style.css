@@ -1,0 +1,16 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    front-size: 16px;
+}
+
+body {
+    border-block-color: rgb(255, 255, 255);
+}
+
+main {
+    background-color: rgb(184, 200, 214);
+    width: 500px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.507)
+}
